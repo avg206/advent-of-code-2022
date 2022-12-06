@@ -1,0 +1,16 @@
+{
+  "name": "aaa",
+  "version": "1.0.0",
+  "main": "index.ts",
+  "repository": "git@github.com:avg206/advent-of-code.git",
+  "author": "Anatoli Huseu <avg.tolik@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "bun-types": "^0.2.2",
+    "prettier": "^2.5.0"
+  },
+  "devDependencies": {
+    "@types/node": "^18.11.9",
+    "bun-types": "^0.2.0"
+  }
+}
