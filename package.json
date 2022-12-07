@@ -6,11 +6,10 @@
   "author": "Anatoli Huseu <avg.tolik@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "bun-types": "^0.2.2",
     "prettier": "^2.5.0"
   },
   "devDependencies": {
     "@types/node": "^18.11.9",
-    "bun-types": "^0.2.0"
+    "bun-types": "^0.2.2"
   }
 }
